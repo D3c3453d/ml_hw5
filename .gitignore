@@ -1,0 +1,6 @@
+CIFAR10
+__pycache__
+.coverage
+wandb
+results/*
+!results/.gitkeep
